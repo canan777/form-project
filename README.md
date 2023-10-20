@@ -1,4 +1,4 @@
-<h1>Home Page</h1>
+<h1>home page</h1>
 The user is asked for login information.
 
 
